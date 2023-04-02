@@ -1,5 +1,19 @@
+# Solution_Challenge
 
-# solution_challenge
+## Cold Storage Management App
+
+## Introduction
+Welcome to the Cold Storage Management App, a solution that aims to reduce the wastage of food and other commodities in India. Our app provides a platform for users to easily locate and book cold storage facilities near them, allowing them to safely store perishable items and reduce the risk of spoilage.
+
+Our app is built using React Native, Firebase, and Google Maps Platform, and is designed to be scalable, user-friendly, and accessible to a wide range of users.
+
+Features
+Search for nearby cold storage facilities on a map
+View detailed information about each facility, including location, available capacity, and contact information
+Book storage slots for specific durations
+Make secure payments using Google Pay or PayPal
+Monitor bookings and manage account details
+Receive notifications for booking confirmations, reminders, and updates
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Check the UI of the entire app](#app-navigations)
@@ -7,7 +21,6 @@
 - [Google authentication configuration](#google-authentication-configuration)
 - [Application structure](#project-structure)
 - [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
 - [Libraries and tools used](#libraries-and-tools-used)
 
 
@@ -72,9 +85,6 @@ After successful build, your application structure should look like this:
   dart format .
   ```
 
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
 
 ### Libraries and tools used
 
